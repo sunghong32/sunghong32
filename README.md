@@ -1,5 +1,5 @@
 ### 🤟 Hello I'm sunghongMin 🤟
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sunghong32&show_icons=true&theme=algolia)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sunghong32&show_icons=true&theme=vue)
 - 📱 I’m iOS developer
 - 📫 How to reach me: sunghong32@naver.com
 - 💟 Instagram hologram: https://www.instagram.com/sunghong32/
