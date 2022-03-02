@@ -3,6 +3,8 @@
 - 📫 How to reach me: sunghong32@naver.com
 - 💟 Instagram hologram: https://www.instagram.com/sunghong32/
 
+![trophy](https://github-profile-trophy.vercel.app/?username=sunghong32)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunghong32&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghong32&layout=compact&theme=vue)
