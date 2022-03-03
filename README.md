@@ -10,4 +10,3 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunghong32)](https://github.com/sunghong32/github-readme-activity-graph)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sunghong32)
