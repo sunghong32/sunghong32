@@ -8,5 +8,5 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunghong32&show_icons=true&theme=vue) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghong32&&theme=vue)  
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunghong32)](https://github.com/sunghong32/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunghong32&theme=rogue)](https://github.com/sunghong32/github-readme-activity-graph)
 
