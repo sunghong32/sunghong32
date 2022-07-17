@@ -8,11 +8,6 @@
 
 [![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Sunghong%20Min&fontSize=80&fontAlign=50&desc=iOS%20Developer&descAlignY=78&descSize=25&descAlign=73)](https://github.com/sunghong32)  
 
-
-
-
-
-
 ### 🌀 ME 🌀
 [![mail](https://img.shields.io/badge/sunghong32@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sunghong32@gmail.com) [![blog](https://img.shields.io/badge/tistory-important?style=flat&logo=Telegraph&logoColor=white)](https://hong-sangcompany.tistory.com) [![instagram](https://img.shields.io/badge/instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://hong-sangcompany.tistory.com)  [![git](https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/sunghong32)  
 
