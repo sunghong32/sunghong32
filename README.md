@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunghong%20Min&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Sunghong%20Min&fontSize=90)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+sunghong+Min;Have+a+nice+Day!!)](https://git.io/typing-svg)
 
