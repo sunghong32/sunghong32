@@ -24,11 +24,9 @@
 
 [![reacitveX](https://img.shields.io/badge/reactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white)]() [![c](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white)]() [![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white)]() [![jirasoftware](https://img.shields.io/badge/jira_software-0052CC?style=flat&logo=JiraSoftware&logoColor=white)]() 
 
-[![graphql](https://img.shields.io/badge/graphql-E10098?style=flat&logo=GraphQL&logoColor=white)]() [![sourcetree](https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=SourceTree&logoColor=white)]() [![git](https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white)]() [![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)]()  
+[![graphql](https://img.shields.io/badge/graphql-E10098?style=flat&logo=GraphQL&logoColor=white)]() [![sourcetree](https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=SourceTree&logoColor=white)]() [![git](https://img.shields.io/badge/git-F05032?style=flat&logo=Git&logoColor=white)]() [![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghong32&layout=compact&theme=vue)
 
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghong32&layout=compact&theme=vue)  
 
 ---
 
