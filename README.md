@@ -4,8 +4,8 @@
 
 <div align=left>
 
-### 🌀 ME 🌀
-[![mail](https://img.shields.io/badge/sunghong32@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sunghong32@gmail.com) [![blog](https://img.shields.io/badge/tistory-important?style=flat&logo=Telegraph&logoColor=white)](https://hong-sangcompany.tistory.com) [![instagram](https://img.shields.io/badge/instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://hong-sangcompany.tistory.com)  [![git](https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/sunghong32) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghong32&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🌀 ME 🌀  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunghong32&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![mail](https://img.shields.io/badge/sunghong32@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:sunghong32@gmail.com) [![blog](https://img.shields.io/badge/tistory-important?style=flat&logo=Telegraph&logoColor=white)](https://hong-sangcompany.tistory.com) [![instagram](https://img.shields.io/badge/instagram-ff69b4?style=flat&logo=Instagram&logoColor=white)](https://hong-sangcompany.tistory.com)  [![git](https://img.shields.io/badge/github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/sunghong32)
 
 </div>
 
