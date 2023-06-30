@@ -23,9 +23,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghong32&layout=compact&theme=vue) ![Github Stats](https://github-readme-stats.vercel.app/api?username=sunghong32&show_icons=true&theme=vue) 
 
 </div>
-
----
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sunghong32&theme=rogue)](https://github.com/sunghong32/github-readme-activity-graph)
-
 </div>
